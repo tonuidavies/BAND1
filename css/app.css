@@ -291,3 +291,14 @@ h3{
 .left {
 
 }
+
+.left1 {
+    height: 2.em;
+    background-color: black;
+}
+
+.row1 {
+    height: 6em;
+    background-color: black;
+    color: yellow;
+}
