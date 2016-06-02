@@ -28,10 +28,10 @@ textarea {
 	color: #999
 }
 .btn-start-order {
-	background: 0 0 #ffffff;
+	background: 0 0 #111;
     border: 1px solid #2f323a;
     border-radius: 3px;
-    color: #2f323a;
+    color: yellow;
     font-family: "Raleway", sans-serif;
     font-size: 16px;
     line-height: inherit;
@@ -39,6 +39,7 @@ textarea {
     padding: 10px 50px;
     text-transform: uppercase;
     transition: all 0.25s ease 0s;
+    width: 80%;
 }
 .btn-start-order:hover,.btn-start-order:active, .btn-start-order:focus {
 	border-color: #5e9bfc;
@@ -47,4 +48,5 @@ textarea {
 .contact{
     background-image: url(../img/H_art.jpg);
     height: 30em;
-}
+    font-family: 'Indie Flower', cursive;
+    color: yellow;
